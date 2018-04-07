@@ -1,6 +1,8 @@
 /static
 tutorial/
 
+# Fixed issue#1 for security reason
+mysite/settings.py
 
 # Created by https://www.gitignore.io/api/vim,linux,django,python
 
